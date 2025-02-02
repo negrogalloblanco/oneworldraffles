@@ -1,0 +1,16 @@
+{
+  "name": "one-world-raffle",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "next": "latest",
+    "one-world-raffle": "file:",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
